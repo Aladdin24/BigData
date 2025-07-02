@@ -1,0 +1,6 @@
+1	Sidi	2,3,4
+2	Mohamed	1,3,5
+3	Aicha	1,2,4,6
+4	Ahmed	1,3
+5	Leila	2
+6	Issa	3
